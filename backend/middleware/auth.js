@@ -1,0 +1,1 @@
+// content of auth.js
